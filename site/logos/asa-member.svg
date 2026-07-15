@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="12 18 252.2 106.2" role="img" aria-label="ASA Member — Aviation Suppliers Association">
+  <defs>
+    <clipPath id="asaGlobe"><circle cx="54" cy="60" r="40"/></clipPath>
+  </defs>
+  <!-- globe mark -->
+  <circle cx="54" cy="60" r="40" fill="#00539b"/>
+  <g clip-path="url(#asaGlobe)" fill="none" stroke="#ffffff" stroke-width="2.4" opacity=".9">
+    <ellipse cx="54" cy="60" rx="16" ry="40"/>
+    <ellipse cx="54" cy="60" rx="34" ry="40"/>
+    <line x1="14" y1="60" x2="94" y2="60"/>
+    <path d="M18 40 H90 M18 80 H90"/>
+  </g>
+  <!-- swoosh -->
+  <path d="M16 96 C 46 112, 78 100, 96 78" fill="none" stroke="#e11b22" stroke-width="6" stroke-linecap="round"/>
+  <!-- wordmark -->
+  <text x="118" y="58" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="42" letter-spacing="1" fill="#00539b">ASA</text>
+  <text x="119" y="82" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="11.5" letter-spacing="1.2" fill="#1b3a5b">AVIATION SUPPLIERS</text>
+  <text x="119" y="98" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="11.5" letter-spacing="1.2" fill="#1b3a5b">ASSOCIATION</text>
+  <text x="119" y="120" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="10" letter-spacing="3" fill="#e11b22">MEMBER</text>
+</svg>

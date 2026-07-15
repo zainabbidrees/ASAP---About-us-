@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="6.1 45.1 247.8 90.8" role="img" aria-label="Member of NBAA — National Business Aviation Association">
+  <!-- stylized wing mark -->
+  <g>
+    <path d="M40 66 C 70 44, 110 44, 150 52 C 116 60, 84 66, 40 78 Z" fill="#0067b1"/>
+    <path d="M40 78 C 70 62, 104 60, 138 64 C 108 72, 80 78, 40 88 Z" fill="#5aa0d6" opacity=".8"/>
+  </g>
+  <text x="130" y="112" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="40" letter-spacing="3" fill="#0067b1">NBAA</text>
+  <text x="130" y="132" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="9" letter-spacing="1.1" fill="#4a5b6b">NATIONAL BUSINESS AVIATION ASSOCIATION</text>
+</svg>

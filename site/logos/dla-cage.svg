@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="8 12 234 108" role="img" aria-label="Defense Logistics Agency — CAGE Code 6RE77">
+  <!-- emblem roundel -->
+  <circle cx="60" cy="64" r="50" fill="#0b2e59"/>
+  <circle cx="60" cy="64" r="50" fill="none" stroke="#c8a24a" stroke-width="3"/>
+  <circle cx="60" cy="64" r="41" fill="none" stroke="#c8a24a" stroke-width="1.2" opacity=".8"/>
+  <!-- eagle / star emblem -->
+  <g fill="#c8a24a">
+    <path d="M60 40 l4.6 9.3 10.3 1.5 -7.4 7.3 1.7 10.2 -9.2-4.8 -9.2 4.8 1.7-10.2 -7.4-7.3 10.3-1.5 Z"/>
+  </g>
+  <g fill="#ffffff" opacity=".92">
+    <path d="M34 78 C 46 86, 74 86, 86 78 C 74 92, 46 92, 34 78 Z"/>
+  </g>
+  <text x="60" y="102" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="9" letter-spacing="2" fill="#c8a24a">EST. 1961</text>
+  <!-- wordmark -->
+  <text x="122" y="50" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="30" letter-spacing="2" fill="#0b2e59">DLA</text>
+  <text x="122" y="70" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="11" letter-spacing=".3" fill="#1b3a5b">Defense Logistics</text>
+  <text x="122" y="86" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="11" letter-spacing=".3" fill="#1b3a5b">Agency</text>
+  <rect x="122" y="96" width="118" height="22" rx="4" fill="#0b2e59"/>
+  <text x="181" y="111" text-anchor="middle" font-family="'Courier New', monospace" font-weight="700" font-size="11.5" letter-spacing="1.5" fill="#ffffff">CAGE 6RE77</text>
+</svg>

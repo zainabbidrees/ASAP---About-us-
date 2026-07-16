@@ -387,6 +387,61 @@ export default function AboutPage() {
           </div>
         </section>
 
+        {/* ========================= QUALITY ========================= */}
+        <section className="section quality" id="quality">
+          <div className="container">
+            <div className="section-head q-head reveal">
+              <div className="q-head-title">
+                <span className="kicker">Quality &amp; assurance</span>
+                <h2>Meet the standard — then prove it on every line.</h2>
+              </div>
+              <p>We&apos;re a systems-based organization built to exceed statutory and regulatory standards. Every step — from your first RFQ to the final shipping inspection — is documented and quality-controlled to protect the integrity, traceability and reliability of every part.</p>
+            </div>
+
+            <div className="q-grid stagger">
+              <article className="q-item">
+                <div className="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M9 5H7a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-2" /><rect x="9" y="3" width="6" height="4" rx="1" /><path d="m9 14 2 2 4-4" /></svg></div>
+                <h3>32-point inspection</h3>
+                <p>Every shipment is checked against a thorough 32-point quality-control inspection by seasoned inspectors before it ships.</p>
+              </article>
+              <article className="q-item">
+                <div className="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M12 3 4 6v6c0 5 3.5 7.5 8 9 4.5-1.5 8-4 8-9V6z" /><path d="m9 12 2 2 4-4" /></svg></div>
+                <h3>30-day warranty</h3>
+                <p>Form, fit and function guaranteed on all purchased parts, backed by a 30-day warranty.</p>
+              </article>
+              <article className="q-item">
+                <div className="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><circle cx="12" cy="12" r="9" /><path d="m5.6 5.6 12.8 12.8" /></svg></div>
+                <h3>Counterfeit-free sourcing</h3>
+                <p>Electronic parts sourced per 48 CFR 252.246-7007 &amp; 252.246-7008 — never from the Chinese grey or broker markets.</p>
+              </article>
+              <article className="q-item">
+                <div className="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><circle cx="6" cy="6" r="2" /><circle cx="18" cy="18" r="2" /><path d="M6 8v6a4 4 0 0 0 4 4h6" /></svg></div>
+                <h3>End-to-end tracking</h3>
+                <p>Detailed order tracking at every stage of fulfillment — from the RFQ to delivery.</p>
+              </article>
+              <article className="q-item">
+                <div className="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M2 12s3.5-7 10-7 10 7 10 7-3.5 7-10 7-10-7-10-7z" /><circle cx="12" cy="12" r="3" /></svg></div>
+                <h3>Full transparency</h3>
+                <p>Part condition, National Stock Number, part number and manufacturer disclosed on every line.</p>
+              </article>
+              <article className="q-item">
+                <div className="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2" /><circle cx="9" cy="7" r="4" /><path d="M22 21v-2a4 4 0 0 0-3-3.87" /><path d="M16 3.13a4 4 0 0 1 0 7.75" /></svg></div>
+                <h3>Trained purchasing team</h3>
+                <p>A dedicated, highly trained purchasing team that understands and fulfills your exact product needs.</p>
+              </article>
+            </div>
+
+            <div className="q-standards reveal">
+              <span className="lbl">Also held to</span>
+              <span className="chip2"><b>AS9120B</b></span>
+              <span className="chip2"><b>AS6081:2012</b> counterfeit avoidance</span>
+              <span className="chip2"><b>ESD S20.20-2014</b></span>
+              <span className="chip2"><b>NIST 800-171</b> compliant</span>
+              <span className="chip2"><b>48 CFR 252.246-7007 / 7008</b></span>
+            </div>
+          </div>
+        </section>
+
         {/* ====================== CERTIFICATIONS ====================== */}
         <section className="section certs-sec" id="certifications">
           <div className="container">
